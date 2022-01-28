@@ -1,1 +1,6 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+ - [ ] *i agree*
+
+ - [ ] **i donot agree**
+- [ ] __are you a male__
+
+- [ ] _hi i'm **aisha** rahim_
